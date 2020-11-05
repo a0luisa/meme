@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background-color: yellow;
+
+}
+.title{
+  margin: 3rem auto 1rem auto;
+  color:grey;
+  font-family: cursive;
+}
+
+.btn{
+  color: white;
+  background-color:cyan;
+  box-shadow: blue;
+  font-size: 2rem;
+  font-family: sans-serif;
+  font-weight: bold;
+
+
+}
+a{
+  margin: 3rem;
+}
+
+.imagens{
+  height: 30%;
+  padding: 5%;
+}
